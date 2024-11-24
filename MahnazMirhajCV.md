@@ -4,7 +4,7 @@
 
 **Email**: [mahnazmirhaj1997ATgmail.com](mailto:mahnazmirhaj1997@gmail.com)  
 **Homepage**: [GitHub](https://github.com/maahnaaz)  
-**Extra Information**: Date of Birth: 01.12.1997  
+**CVisionary**: [GitHub](https://github.com/maahnaaz)  
 
 ---
 

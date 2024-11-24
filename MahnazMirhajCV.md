@@ -1,9 +1,8 @@
 # Mahnaz Mirhaj  
 **Curriculum Vitae**  
 
-**Address**: Bergstr 83, Bonn, Deutschland  
-**Mobile**: (+49)17636869791  
-**Email**: [mahnazmirhaj1997@gmail.com](mailto:mahnazmirhaj1997@gmail.com)  
+
+**Email**: [mahnazmirhaj1997ATgmail.com](mailto:mahnazmirhaj1997@gmail.com)  
 **Homepage**: [GitHub](https://github.com/maahnaaz)  
 **Extra Information**: Date of Birth: 01.12.1997  
 

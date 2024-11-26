@@ -4,7 +4,7 @@
 
 **Email**: [mahnazmirhaj1997ATgmail.com](mailto:mahnazmirhaj1997@gmail.com)  
 **Homepage**: [GitHub](https://github.com/Mahnaz-Mirhaj)
-**CVisionary**: [GitHub](https://github.com/Mahnaz-Mirhaj/CVisionary-chatbot)  
+**CVisionary**: [Chatbot](https://github.com/Mahnaz-Mirhaj/CVisionary-chatbot)  
 
 ---
 

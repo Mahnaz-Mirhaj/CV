@@ -11,7 +11,7 @@
 ## Practical Experience  
 
 ### AI Developer  
-**neuland.ai** (Part time)  
+**neuland.ai**   
 *Köln, Germany* (10/2024 - Present)  
 - Developing generative AI and LLM-based solutions, including RAG chatbots and knowledge extraction agents.  
 
